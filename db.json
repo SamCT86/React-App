@@ -1,0 +1,63 @@
+{
+  "recipes": [
+    {
+      "id": "1",
+      "title": "Veggie Curry",
+      "ingredients": [
+        "1 Carrot",
+        "1 Leek",
+        "1 Block of Tofu",
+        "1 Red Pepper",
+        "1 Yellow Pepper",
+        "1 Green Pepper"
+      ],
+      "method": "1. Pre-heat the oven to 200C/3C/gas 5. 2. Chop the vegetables into small pieces. 3. Add the vegetables to a large pan with the coconut milk, chickpeas, sweetcorn, tomatoes, stock cube and spices. 4. Place the lid on the oven and cook for 30 minutes. 5. Serve with a slaw of your choice",
+      "cookingTime": "45 minutes"
+    },
+    {
+      "id": "2",
+      "title": "Veggie Pizza",
+      "ingredients": [
+        "1 Block of Tofu",
+        "1 Red Pepper",
+        "1 Yellow Pepper",
+        "1 Green Pepper",
+        "1 Block of Feta",
+        "1 Block of Mozzarella"
+      ],
+      "method": "1. Pre-heat the oven to 200C/3C/gas 5. 2. Chop the vegetables into small pieces. 3. Add the vegetables to a large pan with the coconut milk, chickpeas, sweetcorn, tomatoes, stock cube and spices. 4. Place the lid on the oven and cook for 30 minutes. 5. Serve with a slaw of your choice",
+      "cookingTime": "35 minutes"
+    },
+    {
+      "id": "3",
+      "title": "Greek Salad",
+      "ingredients": [
+        "1 Block of Feta",
+        "1 Block of Mozzarella",
+        "1 Red Pepper",
+        "1 Yellow Pepper",
+        "1 Green Pepper",
+        "1 Block of Tofu"
+      ],
+      "method": "1. Pre-heat the oven to 200C/3C/gas 5. 2. Chop the vegetables into small pieces. 3. Add the vegetables to a large pan with the coconut milk, chickpeas, sweetcorn, tomatoes, stock cube and spices. 4. Place the lid on the oven and cook for 30 minutes. 5. Serve with a slaw of your choice",
+      "cookingTime": "35 minutes"
+    },
+    {
+      "title": "Spaghetti puttanesca",
+      "ingredients": [
+        "3 tbsp olive oil",
+        "1 onion, finely chopped",
+        "2 large garlic cloves, crushed",
+        "400g can chopped tomatoes",
+        "5 anchovy fillets, finely chopped",
+        "120g pitted black olives",
+        "2 tbsp capers, drained",
+        "300g dried spaghetti",
+        "½ small bunch of parsley, finely chopped"
+      ],
+      "method": "1. Heat the oil in a large frying pan over a medium heat. Add the onion and garlic and cook for 5 minutes, stirring occasionally, until softened. 2. Add the tomatoes, anchovies, olives and capers and bring to the boil. Reduce the heat and simmer for 10 minutes. 3. Meanwhile, cook the spaghetti in a large pan of boiling water according to the packet instructions. Drain well. 4. Add the spaghetti to the sauce and toss well. Season to taste. Sprinkle with parsley and serve.",
+      "cookingTime": "35minutes",
+      "id": "0QoGtT1"
+    }
+  ]
+}

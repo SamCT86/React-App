@@ -1,0 +1,49 @@
+.recipe {
+    max-width: 900px;
+    margin: 40px auto;
+    text-align: center;
+    background: whitesmoke;
+    padding: 40px;
+    box-sizing: border-box;
+    box-shadow: 0px 2px 6px rgba(0, 0, 0, 0.3);
+    border-radius: 10px;
+    font-family: Arial, sans-serif;
+    color: #333;
+    font-size: 1.2em;
+}
+
+.recipe h2 {
+    font-size: 2em;
+    font-weight: bold;
+    margin-top: 0;
+}
+
+.recipe ul {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+    margin-bottom: 0;
+    padding: 0;
+}
+
+.recipe li {
+    list-style-type: none;
+    margin-right: 10px;
+    color: #777;
+    font-size: 0.8em;
+}
+
+.recipe li::after {
+    content: ",";
+}
+
+.recipe li:last-child::after {
+    content: ".";
+}
+
+.method {
+    text-align: center;
+    line-height: 1.5em;
+    margin-top: 20px;
+    font-size: 0.8em;
+}
